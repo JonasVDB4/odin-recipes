@@ -1,1 +1,2 @@
 # odin-recipes
+With this project i learned how to connect multiple html pages with eachother. I also learned how a standard html pages could look like (based on structure). Overall this project gave me a good insight on how to use html for simple pages.
